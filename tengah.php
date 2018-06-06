@@ -10,7 +10,7 @@ switch($get_page){
 	include"loginn.php";
 	break;
 	
-	case"14";
+	case"17";
 	include"skrip/contact.php";
 	break;
 	
